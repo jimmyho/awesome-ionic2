@@ -13,6 +13,9 @@ A Collection of Resources for Ionic v2
 * Tutorials
   * [Angular2/Ionic2 - Promises & Observables ] (http://coenraets.org/blog/2016/02/angular2-ionic2-data-services-promises-observables/)
   * [Using REST Service] (http://coenraets.org/blog/2016/02/angular2-ionic2-rest-services/)
-
+  * [App Structure] (http://www.joshmorony.com/ionic-2-first-look-series-your-first-ionic-2-app-explained/)
+* Sample Apps
+  * [Ionic Realty] (https://github.com/ccoenraets/ionic2-realty)
+  * [Ionic Conference] (https://github.com/driftyco/ionic-conference-app)
 
 ...more to come..
