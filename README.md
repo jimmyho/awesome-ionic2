@@ -27,5 +27,6 @@ A Collection of Resources for Ionic v2
   * [Swiper Slider] (http://idangero.us/swiper/)
 * Angular2
   * [Awesome-Angular2] (https://www.npmjs.com/package/awesome-angular2)
-
+  * [Data Service with Observable] (https://coryrylan.com/blog/angular-2-observable-data-services)
+  * [Rest Data Service] (http://coenraets.org/blog/2016/02/angular2-ionic2-rest-services)
 ...more to come..
