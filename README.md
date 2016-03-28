@@ -9,7 +9,7 @@ A Collection of Resources for Ionic v2
   * [Tutorial] (http://ionicframework.com/docs/v2/getting-started/tutorial/)
   * [Forum] (https://forum.ionicframework.com/c/ionic-2)
 * Tools
-  * [Ionicons] (http://ionicons.com/)
+  * [Ionicons] (http://ionicframework.com/docs/v2/resources/ionicons/)
 * Tutorials
   * [Angular2/Ionic2 - Promises & Observables ] (http://coenraets.org/blog/2016/02/angular2-ionic2-data-services-promises-observables/)
   * [Using REST Service] (http://coenraets.org/blog/2016/02/angular2-ionic2-rest-services/)
