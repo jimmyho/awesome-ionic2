@@ -8,6 +8,7 @@ A Collection of Resources for Ionic v2
   * [GitHub Repo] (https://github.com/driftyco/ionic/tree/2.0)
   * [Tutorial] (http://ionicframework.com/docs/v2/getting-started/tutorial/)
   * [Forum] (https://forum.ionicframework.com/c/ionic-2)
+  * [ng-conf 2016] (https://www.youtube.com/playlist?list=PLOETEcp3DkCq788xapkP_OU-78jhTf68j)
 * Tools
   * [Ionicons] (http://ionicframework.com/docs/v2/resources/ionicons/)
 * Tutorials
