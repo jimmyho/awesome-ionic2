@@ -30,4 +30,5 @@ A Collection of Resources for Ionic v2
   * [Awesome-Angular2] (https://www.npmjs.com/package/awesome-angular2)
   * [Data Service with Observable] (https://coryrylan.com/blog/angular-2-observable-data-services)
   * [Rest Data Service] (http://coenraets.org/blog/2016/02/angular2-ionic2-rest-services)
+  * [ngRx Store] (http://orizens.com/wp/topics/adding-redux-with-ngrxstore-to-angular-2-part-1/)
 ...more to come..
